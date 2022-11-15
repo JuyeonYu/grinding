@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "785432683595",
+    "project_id": "daily-grind-3426d",
+    "storage_bucket": "daily-grind-3426d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785432683595:android:29104aced94306088a99ce",
+        "android_client_info": {
+          "package_name": "com.example.daily_grind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785432683595-jefcnt8mgveumhd40tnjkr5iq1tk1qc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2XbwXVj4K4l3-_op26fCfqjyndk-58Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785432683595-jefcnt8mgveumhd40tnjkr5iq1tk1qc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
